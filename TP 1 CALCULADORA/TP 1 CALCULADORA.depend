@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1536321179 source:c:\users\angel\desktop\utn tsp\programacion 1\para usar codeblocks\tp 1 calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1536320966 source:c:\users\angel\desktop\utn tsp\programacion 1\para usar codeblocks\tp 1 calculadora\calculadora.c
+
+1536069939 c:\users\angel\desktop\utn tsp\programacion 1\para usar codeblocks\tp 1 calculadora\calculadora.h
+
