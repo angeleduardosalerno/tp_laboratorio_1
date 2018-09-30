@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1538344277 source:c:\users\angel\desktop\utn tsp\programacion 1\tps\tp 2 abm\tp 2 abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"arrayemployees.h"
+
+1538344365 c:\users\angel\desktop\utn tsp\programacion 1\tps\tp 2 abm\tp 2 abm\arrayemployees.h
+
+1538344063 source:c:\users\angel\desktop\utn tsp\programacion 1\tps\tp 2 abm\tp 2 abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"arrayemployees.h"
+
