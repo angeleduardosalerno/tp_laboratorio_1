@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1543244126 source:c:\users\angel\desktop\para segundo parcial programacion\esqueleto para p2 programacion ok\esqueleto p2p\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+	"Controller.h"
+
+1543243226 c:\users\angel\desktop\para segundo parcial programacion\esqueleto para p2 programacion ok\esqueleto p2p\linkedlist.h
+
+1541798824 c:\users\angel\desktop\para segundo parcial programacion\esqueleto para p2 programacion ok\esqueleto p2p\employee.h
+
+1540653034 c:\users\angel\desktop\para segundo parcial programacion\esqueleto para p2 programacion ok\esqueleto p2p\validacionesinput.h
+
+1541812474 c:\users\angel\desktop\para segundo parcial programacion\esqueleto para p2 programacion ok\esqueleto p2p\parser.h
+
+1541794243 c:\users\angel\desktop\para segundo parcial programacion\esqueleto para p2 programacion ok\esqueleto p2p\controller.h
+
+1541798521 source:c:\users\angel\desktop\para segundo parcial programacion\esqueleto para p2 programacion ok\esqueleto p2p\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"validacionesinput.h"
+
+1543243270 source:c:\users\angel\desktop\para segundo parcial programacion\esqueleto para p2 programacion ok\esqueleto p2p\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+
+1543244126 source:c:\users\angel\desktop\para segundo parcial programacion\esqueleto para p2 programacion ok\esqueleto p2p\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+
+1543244219 source:c:\users\angel\desktop\para segundo parcial programacion\esqueleto para p2 programacion ok\esqueleto p2p\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+	"Controller.h"
+
+1541528156 source:c:\users\angel\desktop\para segundo parcial programacion\esqueleto para p2 programacion ok\esqueleto p2p\validacionesinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacionesinput.h"
+	"LinkedList.h"
+	"Employee.h"
+
+1543276113 source:d:\eduardo angel\eduardo_angel_1f_sp\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+	"Controller.h"
+
+1543243228 d:\eduardo angel\eduardo_angel_1f_sp\linkedlist.h
+
+1543274773 d:\eduardo angel\eduardo_angel_1f_sp\employee.h
+
+1540653034 d:\eduardo angel\eduardo_angel_1f_sp\validacionesinput.h
+
+1543276060 d:\eduardo angel\eduardo_angel_1f_sp\parser.h
+
+1541794244 d:\eduardo angel\eduardo_angel_1f_sp\controller.h
+
+1543274773 source:d:\eduardo angel\eduardo_angel_1f_sp\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"validacionesinput.h"
+
+1543271900 source:d:\eduardo angel\eduardo_angel_1f_sp\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+
+1543276143 source:d:\eduardo angel\eduardo_angel_1f_sp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+
+1543276113 source:d:\eduardo angel\eduardo_angel_1f_sp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+	"Controller.h"
+
+1541528156 source:d:\eduardo angel\eduardo_angel_1f_sp\validacionesinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacionesinput.h"
+	"LinkedList.h"
+	"Employee.h"
+
+1543276113 source:c:\users\alumno\desktop\eduardo_angel_1f_sp (anda ok sin funcion map)\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+	"Controller.h"
+
+1543243228 c:\users\alumno\desktop\eduardo_angel_1f_sp (anda ok sin funcion map)\linkedlist.h
+
+1543274773 c:\users\alumno\desktop\eduardo_angel_1f_sp (anda ok sin funcion map)\employee.h
+
+1540653034 c:\users\alumno\desktop\eduardo_angel_1f_sp (anda ok sin funcion map)\validacionesinput.h
+
+1543276060 c:\users\alumno\desktop\eduardo_angel_1f_sp (anda ok sin funcion map)\parser.h
+
+1541794244 c:\users\alumno\desktop\eduardo_angel_1f_sp (anda ok sin funcion map)\controller.h
+
+1543274773 source:c:\users\alumno\desktop\eduardo_angel_1f_sp (anda ok sin funcion map)\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"validacionesinput.h"
+
+1543271900 source:c:\users\alumno\desktop\eduardo_angel_1f_sp (anda ok sin funcion map)\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+
+1543276143 source:c:\users\alumno\desktop\eduardo_angel_1f_sp (anda ok sin funcion map)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+
+1543276113 source:c:\users\alumno\desktop\eduardo_angel_1f_sp (anda ok sin funcion map)\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validacionesinput.h"
+	"parser.h"
+	"Controller.h"
+
+1541528156 source:c:\users\alumno\desktop\eduardo_angel_1f_sp (anda ok sin funcion map)\validacionesinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacionesinput.h"
+	"LinkedList.h"
+	"Employee.h"
+
